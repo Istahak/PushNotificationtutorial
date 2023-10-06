@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632601978048",
+    "project_id": "pushnotificationtutorial-c8d05",
+    "storage_bucket": "pushnotificationtutorial-c8d05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632601978048:android:47dcf29fd0b973080c7925",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationtutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRlxiAP4O-fHoLA56oNww3_7HW0s9XB5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
