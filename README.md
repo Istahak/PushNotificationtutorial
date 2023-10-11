@@ -1,5 +1,28 @@
 # Push Notifications with Firebase Cloud Messaging (FCM) in Android apps
 
+## Table of Contents
+  - [Introducation](#introduction)
+  - [Android app connection process with Firebase](#android-app-connection-process-with-firebase)
+  - [Enable process Firebase cloud messaging in Android app](#enable-process-firebase-cloud-messaging-in-android-app)
+  - [Necessary Permissions for Notification in Android App](#necessary-permissions-for-notification-in-android-app)
+  - [Push Notification in Your app using Firebase Cloud messaging process step by step](#push-notification-in-your-app-using-firebase-cloud-messaging-process-step-by-step)
+
+  - [References](#references)
+
+## About us
+  **Team Name**
+
+  ***Du_3Ds***
+
+  [Md Mahmudul Islam](https://github.com/mahmudulyeamim)
+
+  [Md Istahak Islam](https://github.com/Istahak)
+
+  [Md Rifat Khan](https://github.com/rifat414141)
+
+## Github
+   [click here for better experience](https://github.com/Istahak/PushNotificationtutorial)
+
 ## Introduction
 
 Firebase Cloud Messaging (FCM) is a powerful service provided by Google that allows you to send push notifications to Android, iOS, and web applications. FCM provides several key functionalities for push notifications:
@@ -257,3 +280,8 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
   ![result](./myfolder/result.jpg)
 
 
+## References
+
+  - [Firebase](https://firebase.google.com/docs/cloud-messaging/android/client)
+  - [Andorid](https://developer.android.com/develop/ui/views/notifications/build-notification)
+  
